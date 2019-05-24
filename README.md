@@ -1,2 +1,2 @@
 # CompetitiveProgramming
-My solutions to the problems from codeforces,codechef,a2oj and various other sites.
+Repository of all my submissions to some competitive programming repositories (Online Judges)
