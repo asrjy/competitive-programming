@@ -1,2 +1,2 @@
-# CompetitiveProgramming
-Repository of all my submissions to some competitive programming repositories (Online Judges)
+# dsa
+dump of all dsa solutions
