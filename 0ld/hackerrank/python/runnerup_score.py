@@ -1,0 +1,6 @@
+n = int(input())
+arr = list(map(int, input().split()))
+arr.sort()
+n_arr = list(set(arr))
+n_arr.sort()
+print(n_arr[-2])
